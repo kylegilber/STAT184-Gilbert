@@ -1,0 +1,6 @@
+This contains one excel document called berkeley_dataset
+
+berkeley_dataset has 12764 unique rows
+
+Each row has information about the year, major, gender, and admission status of individuals that
+applied to UC Berkeley in the year 1973.
