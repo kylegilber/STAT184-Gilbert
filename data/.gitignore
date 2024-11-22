@@ -1,5 +1,2 @@
 # Untrack all csv files
 *.csv
-
-# Untrack pre-existing files
-git rm --cached
